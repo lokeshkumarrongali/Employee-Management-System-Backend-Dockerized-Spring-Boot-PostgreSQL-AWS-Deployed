@@ -31,3 +31,14 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Secrets & Environment ###
+.env
+*.env
+firebase-service-account.json
+*-service-account.json
+application-local.properties
+
+### OS ###
+.DS_Store
+Thumbs.db

@@ -11,9 +11,9 @@
 	<groupId>com.example</groupId>
 	<artifactId>employeemanagementsystem-backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name/>
-	<description/>
-	<url/>
+	<name>Employee Management System Backend</name>
+	<description>A production-ready RESTful backend for managing employee records, built with Spring Boot, PostgreSQL, Docker, Firebase Auth, and deployed on AWS.</description>
+	<url>https://github.com/lokeshkumarrongali/employeemanagementsystem-backend</url>
 	<licenses>
 		<license/>
 	</licenses>
